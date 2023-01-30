@@ -3,6 +3,7 @@
 
 # 👋 Welcome to my personal github 👋
 <hr>
+![linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png)
 
 ![banner](https://giffiles.alphacoders.com/174/1744.gif)
 
