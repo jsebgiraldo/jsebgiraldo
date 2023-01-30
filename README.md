@@ -1,4 +1,8 @@
+| HTML | CSS | JavaScript | Java | Python | PHP | C | C++ | C# |
+| ---- | --- | ---------- |----- |------- | --- |---|-----|----|
+
 # 👋 Welcome to my personal github 👋
+<hr>
 
 ![banner](https://giffiles.alphacoders.com/174/1744.gif)
 
