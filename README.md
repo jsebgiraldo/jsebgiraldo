@@ -7,6 +7,15 @@
 
 ![banner](https://giffiles.alphacoders.com/174/1744.gif)
 
+## Embedded Systems
+
+### ESP32
+
+Here you will find projects related to ESP32.
+
+* [HTTP Web Socket server.](https://github.com/jsebgiraldo/esp32-websocket) a simple project showing how to receive and send messages through a websocket server.
+
+
 ## Libraries
 
 in this section you will find all the APIS and general use libraries in different lenguages.
