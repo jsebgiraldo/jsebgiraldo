@@ -1,29 +1,59 @@
-| HTML | CSS | JavaScript | Java | Python | PHP | C | C++ | C# |
-| ---- | --- | ---------- |----- |------- | --- |---|-----|----|
+# Welcome to My GitHub!
 
-# 👋 Welcome to my personal github 👋
+Hi there! 👋 I'm a **Systems Engineer** with a passion for crafting innovative embedded solutions. My expertise lies in creating low-power hardware designs, developing robust firmware, and pushing the boundaries of **embedded Linux**.
 
-<br>
+---
 
-![banner](https://giffiles.alphacoders.com/174/1744.gif)
+### 🌟 **About Me**
 
-## Embedded Systems
+- 🎯 **Embedded Systems Specialist**: Designing efficient, low-power systems for modern applications.
+- 🛠️ **Hardware Expertise**: Skilled in low-power hardware design and system optimization.
+- 🐧 **Embedded Linux Enthusiast**: Building and optimizing Linux-based platforms for custom hardware.
+- 📡 **RF Specialist**: Proficient in wireless communication technologies under **802.11** and **802.15.4** standards.
+- 🔬 **Problem Solver**: Leveraging analytical thinking to deliver innovative solutions for complex challenges.
 
-### ESP32
+---
 
-Here you will find projects related to ESP32.
+### 🔧 **Skills & Technologies**
 
-* [HTTP Web Socket server.](https://github.com/jsebgiraldo/esp32-websocket) a simple project showing how to receive and send messages through a websocket server.
-* [SMB Client.](https://github.com/jsebgiraldo/ESP32-SMB-API) this demo shows an implementation of OTA via SMB and basic functions of "ls", "cat" and downloading files to a SPIFFS partition using the SMB protocol.
+- **Embedded Linux**: Yocto, Buildroot, Device Drivers
+- **RTOS & Microcontrollers**: FreeRTOS & Zephyr on ST Microelectronics (STM), espressif (ESP), Nordic (nRF), Renesas (DA), Silicon Labs, Texas Instruments
+- **Wireless Communications**: Wi-Fi (802.11), Zigbee/Thread (802.15.4), BLE, Wi-SUN, LTE 4G, NB-IoT, Cat-M
+- **Low-Power Design**: Circuit optimization, energy-efficient systems
+- **Programming Languages**: C, C++, Python, Bash
+- **Tools**: Git, Docker, CI/CD, PCB Design (Altium, KiCAD)
+- **Data Analysis**: Least squares optimization, RF tuning
 
-## Libraries
+---
 
-in this section you will find all the APIS and general use libraries in different lenguages.
+### 📂 **Highlighted Projects**
 
-### ![C](https://img.icons8.com/color/2x/c-programming.png) 
+1. **Low-Power IoT Gateway**
+   - Built an energy-efficient gateway integrating 802.11 and 802.15.4 radios.
+   - Customized Linux kernel and drivers for seamless RF communication.
 
+2. **Mesh Networking Optimization**
+   - Developed a robust mesh network leveraging 802.15.4.
+   - Enhanced performance using least squares optimization for parameter tuning.
 
+3. **Embedded TestJig Framework**
+   - Designed a modular test system for hardware validation.
+   - Centralized firmware management for multiple DUTs.
 
-#### Data structure
+4. **RF Signal Tuning Tool**
+   - Created a Python-based tool for fine-tuning RF modules.
+   - Improved performance and reduced interference in multi-device environments.
 
-* [Queue:](https://github.com/jsebgiraldo/C/tree/main/data_structures/queue) the implementation of this library is based on the [FreeRTOS Queues](https://www.freertos.org/Embedded-RTOS-Queues.html), the usage is identical.
+---
+
+### 📫 **Let's Connect**
+
+Feel free to reach out if you share a passion for embedded systems, Linux, or RF technologies. Collaborations and discussions are always welcome!
+
+- 🌐 [Portfolio Website](#)
+- 💼 [LinkedIn](#)
+- ✉️ [Email](#)
+
+---
+
+### 🚀 "Designing the future, one embedded system at a time."
